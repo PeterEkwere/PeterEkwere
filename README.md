@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 I'm a software engineer currently enrolled in the ALX SE program.
