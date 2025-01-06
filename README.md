@@ -4,7 +4,7 @@
 I'm a software engineer currently enrolled in the ALX SE program.
 
 🌱 My Tech Stacks are 
-[![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  [![Shell](https://img.shields.io/badge/-Shell-blasck?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))     [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  [![Shell](https://img.shields.io/badge/-Shell-blasck?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))   [![javascript](https://img.shields.io/badge/-javascript-3776AB?style=flat-square&logo=python&logoColor=white)]  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 
 
